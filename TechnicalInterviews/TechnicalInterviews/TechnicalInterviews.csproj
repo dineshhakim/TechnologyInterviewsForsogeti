@@ -48,6 +48,9 @@
     <Compile Include="FizzBuzzs\TestFizzBuzz.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RomanNumerals\RomanNumeral.cs" />
+    <Compile Include="RomanNumerals\TestRomanNumeral.cs" />
+    <Compile Include="RomanNumerals\TextValue.cs" />
     <Compile Include="StringCalculator\StringCalculator.cs" />
     <Compile Include="StringCalculator\TestStringCalculator.cs" />
   </ItemGroup>
